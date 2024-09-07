@@ -69,8 +69,8 @@
 	},
 	"dependencies": {
 		"decompress": "^4.2.1",
-		"strip-ansi": "^6.0.0",
-		"typed-rest-client": "^1.8.4"
+		"strip-ansi": "^6.0.1",
+		"typed-rest-client": "^2.0.1"
 	},
 	"devDependencies": {
 		"@types/decompress": "^4.2.3",
